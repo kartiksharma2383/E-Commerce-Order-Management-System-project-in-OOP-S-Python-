@@ -1,1 +1,1 @@
-# E-Commerce-Order-Management-System-project-in-OOP-S-Python-
+This Python project implements an object-oriented E-commerce Order Management System using a dataset from a CSV file. It features classes for Customer, Product, and Order, with a DiscountedOrder subclass for handling discounts. The system includes an iterator for orders and a decorator for logging order processing. Built with pandas and numpy, it processes real-world e-commerce data, demonstrating OOP principles like inheritance, abstraction, and encapsulation.
